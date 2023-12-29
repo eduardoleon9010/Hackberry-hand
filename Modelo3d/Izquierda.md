@@ -5,8 +5,9 @@ servos disponible aquí.
 ## Enlace a los Modelos 3D
 EnlaceS a los Modelos 3D para la Impresión de Prótesis
 - [Izquierda](https://drive.google.com/drive/folders/1iRDD8EviDNQMWHLUaxln10PNIl6ZzKAX?usp=sharing)
-- Derecha
-- Mecanismo
+- [Derecha](https://drive.google.com/drive/folders/1xBdY5FdVM6PD2dYbfDYlSXVCDALETwpb?usp=sharing)
+- [Mecanismo](https://drive.google.com/drive/folders/15NGvvhj6FcgwHIGl6ieMZcnQDpb-UmOW?usp=drive_link)
+- [Circuito](https://drive.google.com/drive/folders/1T3UIFEmJz8PQ7MoNcREPTN5ObK-FRwG3?usp=drive_link)
 
 ## Acerca de los Modelos
 Estos modelos 3D están diseñados para ser utilizados en la impresión de prótesis controladas por el código disponible en este repositorio. 
