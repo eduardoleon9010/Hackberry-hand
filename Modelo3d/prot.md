@@ -3,7 +3,7 @@
 servos disponible aquí.
 
 ## Enlace a los Modelos 3D
-EnlaceS a los Modelos 3D para la Impresión de Prótesis
+Enlaces a los Modelos 3D para la impresión de prótesis
 - [Izquierda](https://drive.google.com/drive/folders/1iRDD8EviDNQMWHLUaxln10PNIl6ZzKAX?usp=sharing)
 - [Derecha](https://drive.google.com/drive/folders/1xBdY5FdVM6PD2dYbfDYlSXVCDALETwpb?usp=sharing)
 - [Mecanismo](https://drive.google.com/drive/folders/15NGvvhj6FcgwHIGl6ieMZcnQDpb-UmOW?usp=drive_link)
