@@ -1,3 +1,22 @@
+"""#Control de Servos Basado en Lecturas de Sensores (Arduino)
+Este código en Arduino ha sido desarrollado para el control de servos a través de lecturas de sensores analógicos. Utilizando la librería Servo.h, 
+  este programa opera con placas Arduino para gestionar los movimientos de los servos en función de las lecturas de sensores.
+
+## Características Principales
+Configura el comportamiento de los servos según las lecturas de un sensor analógico.
+Define límites y rangos para los movimientos de los servos en respuesta a las lecturas del sensor.
+Emplea funciones para la escala de valores y el cálculo de la integración necesaria para ajustar los movimientos de los servos.
+Este código es parte de un proyecto más grande centrado en el desarrollo de extremidades artificiales. Está diseñado específicamente para el entorno
+de programación de Arduino y se dirige a placas Arduino con sus respectivos pines y capacidades.
+
+Este código controla los servos basados en lecturas de sensores. Utiliza una serie de funciones para ajustar los servos según la información del sensor. 
+Las funciones rDeTres(), test(), y integracion() juegan roles clave en el ajuste y control de los servos. Se recomienda un entendimiento completo de la 
+lógica y el propósito de estas funciones antes de realizar modificaciones significativas.
+
+¡Siéntete libre de explorar, modificar y utilizar este código para aplicaciones relacionadas con el control de servos en entornos Arduino!
+"""
+
+
 #include <Servo.h> // Librería para controlar los servos
 
 // Definición de constantes para límites y muestras
@@ -115,3 +134,5 @@ float integracion(float previo, float actual, float sumatoria, float dt){
   }
   return sumatoria;
 }
+
+
